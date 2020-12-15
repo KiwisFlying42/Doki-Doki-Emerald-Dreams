@@ -6,8 +6,8 @@ label monika_route:
     scene bg kitchen
     with dissolve_scene_full
     
-    mc'Today is Sunday, and I sit in my kitchen awaiting Monikas arrival.'
-    mc'We agreed Id help her with the designing and printing of the posters, since it seemed like some brainstorming would be needed.'
+    'Today is Sunday, and I sit in my kitchen awaiting Monikas arrival.'
+    'We agreed Id help her with the designing and printing of the posters, since it seemed like some brainstorming would be needed.'
 
     show monika 1b at t11 zorder 2
     
